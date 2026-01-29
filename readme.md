@@ -2,7 +2,7 @@
 
 ## What I Did
 
-I created a professional HTML resume webpage for Subhasis Samantasinghar. The resume includes all essential sections: personal information, about me, skills, work experience, projects, education, and contact details. The page is structured using semantic HTML tags and follows proper HTML5 standards.
+I created a professional HTML resume webpage. The resume includes all essential sections: personal information, about me, skills, work experience, projects, education, and contact details. The page is structured using semantic HTML tags and follows proper HTML5 standards.
 
 ## HTML Tags Used
 
