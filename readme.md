@@ -2,11 +2,12 @@
 
 ## What I Did
 
-I created a professional HTML resume webpage. The resume includes all essential sections: personal information, about me, skills, work experience, projects, education, and contact details. The page is structured using semantic HTML tags and follows proper HTML5 standards.
+I created a professional HTML resume webpage for Subhasis Samantasinghar. The resume includes all essential sections: personal information, about me, skills, work experience, projects, education, and contact details. The page is structured using semantic HTML tags and follows proper HTML5 standards.
 
 ## HTML Tags Used
 
 ### Document Structure Tags
+
 - `<!DOCTYPE html>` - Declares the document as HTML5
 - `<html lang="en">` - Root element of the HTML document with language attribute
 - `<head>` - Contains metadata and document information
@@ -16,16 +17,19 @@ I created a professional HTML resume webpage. The resume includes all essential 
 - `<body>` - Contains all visible content of the webpage
 
 ### Text Content Tags
+
 - `<h1>` - Main heading (Name: "Subhasis Samantasinghar")
 - `<h2>` - Section headings (About Me, Skills, Experience, Projects, Education, Contact)
 - `<h3>` - Sub-section headings (Project 1, Project 2)
 - `<p>` - Paragraphs for text content (about me description, project descriptions, contact information, footer)
 
 ### List Tags
+
 - `<ul>` - Unordered list container (for Skills and Project details)
 - `<li>` - List items within unordered lists
 
 ### Table Tags
+
 - `<table>` - Creates a table structure (for Experience and Education sections)
   - Attributes used: `border="1"`, `cellpadding="6"`, `cellspacing="0"`
 - `<thead>` - Table header section
@@ -35,15 +39,18 @@ I created a professional HTML resume webpage. The resume includes all essential 
 - `<td>` - Table data cell
 
 ### Semantic/Structural Tags
+
 - `<hr />` - Horizontal rule (used to separate sections visually)
 
 ### Special Characters
+
 - `&amp;` - HTML entity for ampersand (&)
 - `&copy;` - HTML entity for copyright symbol (©)
 
 ## Project Structure
 
 The resume is organized into the following sections:
+
 1. **Header** - Name and professional title
 2. **About Me** - Personal introduction and background
 3. **Skills** - Technical skills listed as bullet points
